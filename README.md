@@ -1,5 +1,8 @@
 # Laravel Dev Stack
 
+## git
+- 2.52.0.windows.1 (2026-01-25)
+
 ## php
 - 8.4.15 (2025-12-06)
 - trader 0.5.1 - 8.4 nts vs17 x64 (2025-12-23)
@@ -29,6 +32,7 @@ composer run dev
 ```
 
 ## Artisan
+
 
 
 
